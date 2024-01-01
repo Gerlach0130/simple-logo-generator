@@ -1,5 +1,5 @@
 const APP = require('./lib/app.js');
 
-const APP = new APP();
+const app = new APP();
 
 app.run();

@@ -4,16 +4,17 @@
     "author": "Michael Gerlach <mgerlach0130@gmail.com>",
     "description": "A simple logo generator for your company",
     "main": "index.js",
-  "scripts": {
-    "start": "node index.js",
-    "test": "jest"
-  },
-  "keywords": [],
-  "license": "MIT",
-  "dependencies": {
-    "inquirer": "^8.2.4"
-  },
-  "devDependencies": {
-    "jest": "^28.1.3"
-  }
+    "scripts": {
+        "start": "node index.js",
+        "test": "jest"
+    },
+    "keywords": [],
+    "license": "MIT",
+    "dependencies": {
+        "inquirer": "^8.2.4",
+        "inquirer-maxlength-input-prompt": "^1.0.2"
+    },
+    "devDependencies": {
+        "jest": "^28.1.3"
+    }
 }
