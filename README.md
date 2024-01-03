@@ -1,4 +1,4 @@
-  # Simple Logo Generator (SVG)
+  # Simple Logo Generator (SVG)n
 
   ## Description
 
@@ -19,7 +19,7 @@
 
   ## Usage
 
-  Quick and simple logo generator as an MVP for a company
+  Run "node index" in "simple-logo-generator" directory in terminal
 
   ## Contributions
 
@@ -27,7 +27,7 @@
 
   ## Tests
 
-  Run "node index" in terminal
+  Run "npm test" in "tests" directory in terminal
 
   ## License
 
