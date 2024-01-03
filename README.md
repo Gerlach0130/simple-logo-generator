@@ -1,4 +1,4 @@
-  # Simple Logo Generator (SVG)n
+  # Simple Logo Generator (SVG)
 
   ## Description
 
@@ -11,6 +11,7 @@
   * [Tests](#tests)
   * [License](#license)
   * [Contact](#contact)
+  * [Examples](#examples)
 
   
   ## Installation
@@ -28,6 +29,12 @@
   ## Tests
 
   Run "npm test" in "tests" directory in terminal
+
+  ## Examples
+
+  ![Alt text](./examples/logoexample1.svg)
+  ![Alt text](./examples/logoexample2.svg)
+  ![Alt text](./examples/logoexample3.svg)
 
   ## License
 
