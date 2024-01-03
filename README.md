@@ -4,6 +4,10 @@
 
   A Node.js application that outputs a simple logo based on user input. Supports square, triangle, and circle shapes. Includes input for 3 text characters, and text/shape color
 
+  Link to video showcasing application usage:
+
+  https://drive.google.com/file/d/1RezODSgvvgI0fnVy1W-HMzTZdGHuHkMk/view
+
   ## Table of Contents
   * [Installation](#installation)
   * [Usage](#usage)
